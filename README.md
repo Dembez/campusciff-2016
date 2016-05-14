@@ -35,11 +35,11 @@ Encabezado de segundo nivel
 
 > "No hay camino hacia el Software Libre, el Software Libre es el camino"
 
----javascript
+~~~javascript
 function() {
 	console.log("hola mundo")
 }
----
+~~~
 
 - [Enlace con texto](https://github.com/asanzdiego/curso-git-github-markdown-2015)
 
